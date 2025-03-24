@@ -1,12 +1,10 @@
 
 <h1 align="center">Buenas 👋, soy Gustavo Alegre</h1>
+
 <h3 align="center">Estudiante de Ingeniería de Sistemas 👍.</h3>
 
-<br>
-
-<p align="right"> <h3>Sobre mí .-</h3>
-  </p>
-
+<p align="right"> <h3>Sobre mí .-</h3> </p>
+<hr>
 <br>
 
 <p><img align="right" width="350px" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4NDgzMDYsIm5iZiI6MTc0Mjg0ODAwNiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI0VDIwMjY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhMzk4ZjRhNzM2MzdlZGEwZDAxOGRiMDNiNDYxZDVlYmRjNWYyOGUxOGI5YzZmNmViYmEzMWRhY2FhMzNhMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ajfIKVP7aYXv8w-1v1NDj8hAyEgSp7nm5vKB-4uL-k8" /></p>
@@ -28,8 +26,8 @@
 
 <br>
 
-<h3 align="left">Habilidades:</h3>
-
+<h3 align="left">Habilidades.-</h3>
+<hr>
 <br>
 
 <p align="center">
