@@ -9,9 +9,11 @@
 
 <p><img align="right" width="350px" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI4NDgzMDYsIm5iZiI6MTc0Mjg0ODAwNiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI0VDIwMjY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhMzk4ZjRhNzM2MzdlZGEwZDAxOGRiMDNiNDYxZDVlYmRjNWYyOGUxOGI5YzZmNmViYmEzMWRhY2FhMzNhMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ajfIKVP7aYXv8w-1v1NDj8hAyEgSp7nm5vKB-4uL-k8" /></p>
 
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
-
-
+🚀 Explorando caminos: Actualmente estudiando para ser Ingeniero de Sistemas.<br>
+🤝 Visión colaborativa: Creo en el trabajo en equipo y el intercambio de ideas en el desarrollo profesional.<br>
+📘 Misión actual: Convertir todo el aprendizaje en una herramienta útil, tener un impacto en lo que hago.<br>
+🔍 Mi especialidad: El diseño, me encanta lo visual, todo buen codigo tiene una buena presentación.<br>
+🛠️ Habilidades en desarrollo: Frontend, backend y base de datos.<br>
 
 <br>
 
