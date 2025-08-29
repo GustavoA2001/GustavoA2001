@@ -15,14 +15,27 @@
 
 ## 🌐 Conéctate conmigo
 
+## 🌐 Conéctate conmigo
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/luis-gustavo-alegre-702b1b30a/" target="blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/luis-gustavo-alegre-702b1b30a/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://github.com/GustavoA2001" target="blank">
+  <!-- GitHub -->
+  <a href="https://github.com/GustavoA2001" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
   </a>
+  <!-- Outlook -->
+  <a href="mailto:luisgustavoalegre2001@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" height="30" width="40" alt="Outlook" style="color:#0078D4"/>
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:gustavoalegre2001@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="40" alt="Gmail" style="color:#EA4335"/>
+  </a>
 </p>
+
 
 ---
 
