@@ -35,10 +35,8 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,mysql)](https://skillicons.dev)
 
 ### 🔹 Herramientas
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
-### 🔹 Extras
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ---
 
