@@ -42,23 +42,17 @@
 ## 💻 Habilidades
 
 ### 🔹 Lenguajes
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,php)](https://skillicons.dev)
 
-### 🔹 Frameworks y Herramientas
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔹 Frameworks y Bases de Datos
+[![My Skills](https://skillicons.dev/icons?i=spring,mysql)](https://skillicons.dev)
 
+### 🔹 Herramientas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ### 🔹 Extras
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
 
 ---
 
