@@ -5,8 +5,6 @@
 
 ## 🙋 Sobre mí
 
-<img align="right" width="350px" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" />
-
 🚀 Explorando caminos: Actualmente estudiando para ser Ingeniero de Sistemas.  
 🤝 Visión colaborativa: Creo en el trabajo en equipo y el intercambio de ideas en el desarrollo profesional.  
 📘 Misión actual: Convertir todo el aprendizaje en una herramienta útil, teniendo impacto en lo que hago.  
@@ -46,8 +44,16 @@
 
 
 ### 🔹 Extras
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 🧩 Habilidades Blandas
+✅ Comunicación asertiva  
+✅ Proactividad  
+✅ Trabajo en equipo  
+✅ Disciplina y responsabilidad  
 
 ---
 
@@ -65,10 +71,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoA2001&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Streak GitHub"/>
 </p>
 
----
 
-## 🧩 Habilidades Blandas
-✅ Comunicación asertiva  
-✅ Proactividad  
-✅ Trabajo en equipo  
-✅ Disciplina y responsabilidad  
