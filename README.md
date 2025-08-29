@@ -13,26 +13,12 @@
 
 ---
 
-## 🌐 Conéctate conmigo
+## 🌐 Conéctate conmigo  
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/luis-gustavo-alegre-702b1b30a/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/GustavoA2001" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-  </a>
-  <!-- Outlook -->
-  <a href="mailto:luisgustavoalegre2001@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" height="30" width="40" alt="Outlook" style="color:#0078D4"/>
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:gustavoalegre2001@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="40" alt="Gmail" style="color:#EA4335"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gustavo-alegre-702b1b30a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoA2001)  
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:luisgustavoalegre2001@outlook.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavoalegre2001@gmail.com)
 
 
 ---
