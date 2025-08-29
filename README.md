@@ -15,8 +15,6 @@
 
 ## 🌐 Conéctate conmigo
 
-## 🌐 Conéctate conmigo
-
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/luis-gustavo-alegre-702b1b30a/" target="_blank" rel="noopener noreferrer">
